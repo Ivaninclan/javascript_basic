@@ -7,7 +7,7 @@ let articuloCarrito = []
 
 cargarEventListeners();
 function cargarEventListeners(){
-    //Cuando agregas un curso pulsando "agregar al carrito"
+    //Cuando agregas un curso pulsando "agregar al carrito" jaja saludos
     listaCursos.addEventListener('click', agregarCurso);
     //Eliminar un solo curso 
     carrito.addEventListener('click', eliminarCurso);
